@@ -1,7 +1,9 @@
 Code and Comment weight: Linux Kernel 5.1.14 source code (Only C files)
 from a total of 26,939 C files
 ---
+
 info about files in this directory 
+
 `weights.py` is the scripts used to traverse C files in kernel source directory.
 
 `weights.csv` is the data grabbed by executing above script.
